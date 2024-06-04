@@ -1,5 +1,6 @@
 # Browser Game Project
 -- Inspiration for this game comes from one of my favorite/old flash games from Neopets called "Jelly Blobs of Doom"
+-- The game can be played here https://dtrain102.itch.io/run-eat-run
 
 ## Goal is to use the gaming library Phaser.io to help with the handling of the physics within the project
 
